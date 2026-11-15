@@ -39,7 +39,7 @@ To explore the app and test all available features without registering a persona
 
 ### 1. Class Calendar & Notes
 
-Keep track of your daily and weekly class schedule at a glance. Students can view their upcoming lessons by hour and attach personal notes or homework reminders directly to specific class blocks.
+Keep track of your daily and weekly class schedule at a glance. Students can view their upcoming lessons by hour and attach personal notes or homework reminders directly to specific class days.
 
 ![Class Calendar and Notes](screenshots/calendar.png)
 
@@ -62,7 +62,7 @@ Wondering what score you need on your next test to reach your goal? Input your c
 ### 4. Student Textbook Marketplace
 A peer-to-peer marketplace built specifically for students. Graduating or upper-year students can list their used textbooks for sale, helping younger students find the materials they need for the school year at affordable prices.
 
-*Note: Since the app has been discontinued, the server side no longer supports images, which won't be shown in the app.*
+*Note: Since the app has been discontinued, the server side no longer supports listing images, which won't be shown in the app.*
 
 ---
 
