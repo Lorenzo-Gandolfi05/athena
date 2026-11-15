@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "573365943082",
+    "project_id": "athena-61f55",
+    "storage_bucket": "athena-61f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573365943082:android:8824fc363208d97ef53c53",
+        "android_client_info": {
+          "package_name": "com.example.athenaandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTAFajHu8PonHDnb5plyP2zqrqQUAllH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573365943082:android:256651b67e59ba57f53c53",
+        "android_client_info": {
+          "package_name": "com.example.athenamanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTAFajHu8PonHDnb5plyP2zqrqQUAllH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573365943082:android:7ce95c65e60dd296f53c53",
+        "android_client_info": {
+          "package_name": "com.schoolApp.athena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTAFajHu8PonHDnb5plyP2zqrqQUAllH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

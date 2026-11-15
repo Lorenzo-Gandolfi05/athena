@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Athena Studenti</string>
+
+    <string name="terms_of_service_1">
+        1. Introduzione\n
+        Ai sensi del Regolamento Europeo n. 2016/679 c.d. &quot;GDPR&quot;, la presente informativa
+        privacy descrive il funzionamento e il trattamento dei dati dell’applicazione
+        &quot;Athena Studenti&quot; (di seguito &quot;App&quot; o &quot;Athena&quot;). La presente informativa non
+        si riferisce al trattamento dei dati degli utenti in altri siti web
+        consultati dall’utente tramite link ipertestuali eventualmente presenti nell’App.\n\n
+
+        2. Funzionalità dell’applicazione\n
+        Athena fornisce i seguenti servizi agli studenti che la utilizzano:\n
+        • Una sezione &quot;Calendario&quot; che permette di visualizzare il proprio orario scolastico
+        e di aggiungere note personali;\n
+        • Una sezione &quot;Piantina&quot; contenente una planimetria con un filtro per una ricerca
+        efficiente delle classi;\n
+        • Una sezione &quot;Marketplace&quot; nella quale è possibile visualizzare libri e vestiti messi in vendita
+        dagli altri studenti;\n
+        • Una sezione &quot;Utilità&quot; nella quale è possibile effettuare calcoli relativi ai propri
+        voti;\n
+        • Una sezione &quot;Assemblea&quot; nella quale è possibile creare gruppi e iscriversi alle
+        assemblee scolastiche;\n
+        • Una sezione &quot;Sconti&quot; nella quale è possibile vedere le promozioni fornite dai locali
+        cittadini agli studenti della scuola.\n\n
+
+        3. Conformità alla normativa GDPR\n
+        Athena rispetta il Regolamento generale sulla protezione dei dati (&quot;GDPR&quot;). Ciò
+        include il modo in cui raccogliamo, utilizziamo e proteggiamo i tuoi dati personali.
+        Raccogliamo solo i dati necessari per il funzionamento dell’App e l’utente ha il pieno
+        controllo sui propri dati.\n\n
+
+        4. Dati raccolti\n
+        L’app raccoglie e immagazzina i dati elencati con le seguenti finalità:\n
+        • Il tuo nome e cognome. Sono utilizzati per confermare la tua identità quando crei o ti
+        iscrivi a gruppi per le assemblee di istituto;\n
+        • La tua email scolastica. È utilizzata per permetterti di effettuare l’autenticazione
+        attraverso Firebase Authentication;\n
+        • La tua classe di appartenenza. È utilizzata per mostrare l’orario settimanale nella
+        sezione &quot;Calendario&quot;;\n
+        • Le tue note personali. Sono utilizzate per permetterti di osservarle dalla sezione
+        &quot;Calendario&quot;.\n
+        • Le tue offerte. Sono utilizzate per permetterne la visualizzazione agli altri studenti nella
+        sezione &quot;Marketplace&quot;.\n\n
+
+        5. Sicurezza dei dati\n
+        I dati raccolti dall’applicazione sono immagazzinati in sicurezza utilizzando
+        FirebaseAuth e Cloud Firestore, servizi offerti da Google, e sono criptati sia
+        nei trasferimenti che a riposo.\n\n
+
+        6. Trattenimento dei dati\n
+        Tratterremo i tuoi dati personali finché il tuo account rimarrà attivo e continueremo
+        a fornire i servizi elencati in questa normativa. Se decidi di eliminare il tuo account
+        o di ritirare il consenso, i tuoi dati saranno permanentemente eliminati dai nostri
+        sistemi entro 30 giorni.\n\n
+
+        7. Diritti dell’utente nel rispetto della normativa GDPR\n
+        un utente all’interno dello Spazio Economico Europeo possiede i seguenti diritti:\n
+        • Diritto all’accesso. Puoi richiedere una copia dei tuoi dati personali che possediamo;\n
+        • Diritto di rettifica. Puoi richiedere la correzione di dati inaccurati o incompleti
+        relativi alla tua persona;\n
+        • Diritto di cancellazione. Puoi richiedere l’eliminazione dei tuoi dati personali
+        in qualsiasi momento;\n
+        • Diritto di limitazione trattamento. Puoi ottenere la limitazione del trattamento
+        dei dati personali;\n
+        • Diritto di notifica. Riceverai comunicazioni riguardo a eventuali rettifiche,
+        cancellazioni o limitazioni del trattamento dei tuoi dati;\n
+        • Diritto di portabilità. Puoi ottenere i tuoi dati personali e trasmetterli a un
+        altro servizio senza alcun impedimento;\n
+        • Diritto di opposizione. Puoi opporti in qualsiasi momento al trattamento dei tuoi
+        dati personali.\n\n
+
+        8. Servizi di Terze Parti\n
+        La nostra app si appoggia a servizi esterni per le seguenti funzioni:\n
+        • Firebase Authentication (FirebaseAuth). FirebaseAuth è  un servizio Google
+        utilizzato per gestire in sicurezza l’autenticazione in conformità alla normativa GDPR;\n
+        • Cloud Firestore. Cloud Firestore è un database cloud offerto da Google che utilizziamo
+        per immagazzinare i dati utilizzati dall’app. I dati inseriti sono criptati sia nei
+        trasferimenti che a riposo, garantendo la protezione da accessi non autorizzati;\n
+        • Google Maps. Google Maps è utilizzato per vedere la posizione dei locali che offrono
+        convenzioni agli studenti.\n
+        Google potrebbe processare dati per questi servizi, ma non ha un controllo sulle
+        tue informazioni personali oltre a quelle necessarie per fornire i propri servizi.
+        Non condividiamo i tuoi dati personali con terze parti, a meno che non sia
+        esplicitamente richiesto dalla legge.\n
+        Per ulteriori informazioni su come Google elabora e protegge i tuoi dati, consulta
+        le relativa norme sulla privacy:\n
+    </string>
+    <string name="terms_of_service_2">
+        • Informativa privacy Google
+    </string>
+    <string name="terms_of_service_3">
+        • Informativa privacy Firebase\n
+    </string>
+    <string name="terms_of_service_4">
+        9. Informazioni per contattarci\n
+        Se hai domande o preoccupazioni relative ai termini e condizioni di Athena, puoi
+        contattarci attraverso:\n
+        • email: 2lorenzogandolfi@gmail.com o negrini.alessandro.06@gmail.com\n
+        • cellulare: +39 3497831617 o +39 3408308704
+    </string>
+    <string name="groups_guidelines">
+        1. Prima di creare un gruppo, assicurati di essere presente il giorno dell\u2019assemblea\n\n2. Creando un
+        gruppo, ne diventi relatore e il tuo nome viene mostrato agli studenti.
+    </string>
+
+    <string name="event_s0">
+        Vogliamo garantire a tutti gli studenti la possibilità di proporre le proprie attività e di iscriversi ai gruppi
+        desiderati senza limiti di capienza. Per questo abbiamo ripensato il processo organizzativo delle assemblee,
+        ora suddiviso in 4 fasi.
+    </string>
+    <string name="event_s1">
+        In questa fase gli studenti potranno proporre fino a 30 attività. Poiché i campi da gioco sono limitati, gruppi
+        sportivi saranno sempre proposti automaticamente e saranno a numero chiuso. L\u2019auditorium, invece, sarà riservato
+        alle conferenze.
+    </string>
+    <string name="event_s2">
+        In questa fase ci si potrà iscrivere alle attività proposte. Se un gruppo raggiunge il tetto di 25 iscritti,
+        gli studenti potranno crearne un clone e diventarne relatori. In questo modo, non ci sono limiti al numero di
+        iscritti a un\u2019attività.
+    </string>
+    <string name="event_s3">
+        I gruppi con 8 o più iscritti vengono confermati, e i loro partecipanti passano direttamente alla fase 4.
+        Coloro che si erano iscritti a gruppi con meno di 8 membri hanno qui la possibilità di reiscriversi a uno dei
+        gruppi confermati.
+    </string>
+    <string name="event_s4">
+        In questa fase puoi vedere a quale attività sei iscritto, la classe in cui sarà svolta, gli altri
+        partecipanti e i tuoi relatori.
+    </string>
+</resources>
