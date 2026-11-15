@@ -46,14 +46,14 @@ Keep track of your daily and weekly class schedule at a glance. Students can vie
 ---
 
 ### 2. Interactive School Map
-Never get lost looking for a lab or classroom again. The interactive map lets students search for specific rooms, offices, or facilities across the school building and highlights their exact location.
+Never get lost looking for a lab or classroom again. The interactive map lets students search for specific rooms, offices, or facilities across the school building.
 
 ![Interactive School Map](screenshots/mapOne.png)
 
 ---
 
 ### 3. Target Grade Calculator
-Wondering what score you need on your next test to reach your goal? Input your current grades or average along with your desired target average, and the calculator instantly computes the exact grade required on your upcoming evaluation.
+Wondering what score you need on your next test to reach your goal? Input your current average along with your desired target average, and the calculator instantly computes the exact grades required on your upcoming evaluations.
 
 ![Target Grade Calculator](screenshots/target.png)
 
