@@ -4,6 +4,7 @@
 
 **Athena Studenti** is a comprehensive high school companion app designed to centralize daily student life. From managing class schedules and finding classrooms to buying used textbooks and discovering local student discounts, Athena brings every essential school service into one place.
 
+*Note: The app has been discontinued in July 2025, and is no longer available on Play Store.*
 ---
 
 ## Table of Contents
